@@ -33,7 +33,7 @@ pip install bs4
 pip install httpx
 pip install rich
 pkg install git
-rm -rf AWM
+rm -rf BYPASS
 git clone https://github.com/MR-AWM-149/BYPASS.git
 cd BYPASS
 git pull
