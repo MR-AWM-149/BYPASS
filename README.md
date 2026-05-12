@@ -37,6 +37,6 @@ rm -rf AWM
 git clone https://github.com/MR-AWM-149/BYPASS.git
 cd BYPASS
 git pull
-python Bpyass.py
+python Bypass.py
 
 Kidz tool bypassing
